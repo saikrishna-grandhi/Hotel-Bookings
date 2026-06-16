@@ -1,9 +1,8 @@
 This is this repository contains Tableau Dashboard on Hotel Bookings
 
 <p align="center">
-  <a href="./Hotel_bookings.twbx" download>
-    <img src="PASTE_YOUR_GITHUB_GENERATED_IMAGE_URL_HERE" alt="Click to download Tableau Workbook">
+  <a href="https://public.tableau.com/app/profile/sai.krishna.grandhi/viz/Hotel_bookings_17816279852430/BookingRevenueDashboard?publish=yes">
+    <img src="Hotel Bookings Dashboard.png" alt="Tableau Dashboard" width="800">
   </a>
-  <br>
-  <sub><i>💡 Click the dashboard screenshot above to download the interactive `.twbx` file!</i></sub>
 </p>
+
